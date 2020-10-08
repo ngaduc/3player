@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace _3player
 {
-    public partial class Form1 : Form
+    public partial class main3p : Form
     {
         private _3playercore _3player = new _3playercore();
-        public Form1()
+        public main3p()
         {
             InitializeComponent();
         }
