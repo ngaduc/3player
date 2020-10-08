@@ -1,9 +1,0 @@
-E:\vsp\3player\3player\bin\Debug\3player.exe.config
-E:\vsp\3player\3player\bin\Debug\3player.exe
-E:\vsp\3player\3player\bin\Debug\3player.pdb
-E:\vsp\3player\3player\obj\Debug\3player.csprojResolveAssemblyReference.cache
-E:\vsp\3player\3player\obj\Debug\_3player.Form1.resources
-E:\vsp\3player\3player\obj\Debug\_3player.Properties.Resources.resources
-E:\vsp\3player\3player\obj\Debug\3player.csproj.GenerateResource.Cache
-E:\vsp\3player\3player\obj\Debug\3player.exe
-E:\vsp\3player\3player\obj\Debug\3player.pdb
